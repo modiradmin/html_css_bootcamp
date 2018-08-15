@@ -1,7 +1,13 @@
-.one {
+#notred  {
     color: blue;
 }
 
-#some {
+[target=_blank] {
+    color: red;
+}
+.circle {
+    color: black;
+}
+.circle a {
     color: green;
 }
