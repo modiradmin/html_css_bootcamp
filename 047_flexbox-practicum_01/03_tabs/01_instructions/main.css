@@ -1,0 +1,31 @@
+html, body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#atf {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.khoshgel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 10vw;
+    border-bottom: rgba(0,0,0,.4) 1px solid;
+}
+.khoshgel:hover {
+    border-bottom: #9ef8ff 3px solid;
+    cursor: pointer;
+}
