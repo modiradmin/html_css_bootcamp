@@ -26,7 +26,7 @@ form {
 }
 
 fieldset {
-    border: 1px solid hotpink;
+    border: 0;
 }
 
 input {
