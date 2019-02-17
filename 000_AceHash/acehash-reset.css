@@ -50,9 +50,3 @@ table {
     /*borders are collapsed - adjacent table cells share borders */
     border-collapse: collapse;
 }
-
-svg {
-    width: 1.9em;
-    height: 1.9em;
-    fill: currentColor;
-}
