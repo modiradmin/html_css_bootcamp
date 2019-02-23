@@ -1,38 +1,7 @@
-header nav, header nav a, header svg {
-    display: flex;
-    height: 100%;
-}
-
-
-header {
-    justify-content: space-between;
-}
-
-header div, header nav {
-    width: 300px;
-    margin: 0 1rem;
-}
-
-header nav {
-    justify-content: space-between;
-}
-
-header div a {
-    justify-content: flex-start;
-}
-
-header nav a {
-    padding: 0 1rem;
-}
-
-header nav a:hover {
-    border-radius: 5px;
-    background-color: dimgray;
-}
 
 
 #idx-atf > div {
-    height: 18vh;
+    height: 57vh;
 }
 
 .idx-center-spacebetween {
@@ -40,17 +9,5 @@ header nav a:hover {
 }
 
 #idx-atf h1 {
-    font-size: 3rem;
-    margin: .4rem;
-}
-
-#idx-atf h2 {
-    margin: .4rem;
-}
-#idx-atf h3 {
-    margin: .4rem;
-}
-
-footer nav {
-    display: none;
+    font-size: 2.7rem;
 }
