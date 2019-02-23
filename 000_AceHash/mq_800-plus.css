@@ -1,3 +1,16 @@
+.ctn-logo-sign {
+    width: 40%;
+}
+nav.mainmenu {
+    border: #ffef68 1px solid;
+    width: 60%;
+}
+.ctn-mainmenuitems{
+justify-content: flex-end;
+}
+.ctn-mainmenuitems a {
+    padding: 2vw;
+}
 
 
 #idx-atf > div {
@@ -10,4 +23,8 @@
 
 #idx-atf h1 {
     font-size: 2.7rem;
+}
+.ftr-nav a {
+    font-size: 2vw;
+    line-height: 2vw;
 }

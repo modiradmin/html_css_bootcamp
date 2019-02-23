@@ -150,12 +150,23 @@ html {
     height: 100%;
 }
 .ctn-navbar {
-    height: 100vh;
+    height: 60vh;
     display: flex;
     flex-flow: row wrap;
+    background-color: khaki;
+    justify-content: center;
+    align-items: center;
+}
+.ftr-nav {
+    width: 33.3%;
+    justify-content: center;
+    align-items: center;
 }
 
 .ftr-nav ul {
     display: flex;
     flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
 }
+
